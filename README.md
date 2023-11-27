@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, my name is Michał 👋
+I'm a passionate Java programmer, always looking for new challenges. I'm always happy to learn new technologies and develop myself as a coder.
+
+- 🔭 I’m currently working on my project ActualApp. Application is almost ready, all main functions are implemented, but I'm still improving it to be 100% satisfied with the result!
+- 🌱 Right now I'm learning Spring and React
+
 
 <!--
 **h-dejmian/h-dejmian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
