@@ -3,6 +3,7 @@ I'm a passionate Java programmer, constantly looking for new challenges. I'm alw
 
 - 🔭 I’m currently working on my project ActualApp. Application is almost ready, all main functions are implemented, but I'm still improving it to be 100% satisfied with the result!
 - 🌱 Two main technologies that I learn right now are Spring and React
+- 💬 Ask me about my projects :)
 
 
 <!--
